@@ -1,0 +1,29 @@
+﻿{
+  "flights": [
+    {
+      "dateOfTravel": "2018-08-01",
+      "inBoundAvailable": 100,
+      "outBoundAvailable": 100
+    },
+    {
+      "dateOfTravel": "2018-08-02",
+      "inBoundAvailable": 100,
+      "outBoundAvailable": 100
+    },
+    {
+      "dateOfTravel": "2018-08-03",
+      "inBoundAvailable": 100,
+      "outBoundAvailable": 100
+    },
+    {
+      "dateOfTravel": "2018-08-04",
+      "inBoundAvailable": 100,
+      "outBoundAvailable": 100
+    },
+    {
+      "dateOfTravel": "2018-08-05",
+      "inBoundAvailable": 100,
+      "outBoundAvailable": 100
+    }
+  ]
+}

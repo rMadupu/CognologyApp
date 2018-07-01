@@ -1,0 +1,10 @@
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\bin\Debug\netcoreapp2.1\CognologyApp.deps.json
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\bin\Debug\netcoreapp2.1\CognologyApp.runtimeconfig.json
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\bin\Debug\netcoreapp2.1\CognologyApp.runtimeconfig.dev.json
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\bin\Debug\netcoreapp2.1\CognologyApp.dll
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\bin\Debug\netcoreapp2.1\CognologyApp.pdb
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\obj\Debug\netcoreapp2.1\CognologyApp.csproj.CoreCompileInputs.cache
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\obj\Debug\netcoreapp2.1\CognologyApp.AssemblyInfoInputs.cache
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\obj\Debug\netcoreapp2.1\CognologyApp.AssemblyInfo.cs
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\obj\Debug\netcoreapp2.1\CognologyApp.dll
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyApp\obj\Debug\netcoreapp2.1\CognologyApp.pdb

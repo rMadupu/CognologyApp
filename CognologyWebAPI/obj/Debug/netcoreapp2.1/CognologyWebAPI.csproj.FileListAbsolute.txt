@@ -1,0 +1,17 @@
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\bin\Debug\netcoreapp2.1\CognologyWebAPI.deps.json
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\bin\Debug\netcoreapp2.1\CognologyWebAPI.runtimeconfig.json
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\bin\Debug\netcoreapp2.1\CognologyWebAPI.runtimeconfig.dev.json
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\bin\Debug\netcoreapp2.1\CognologyWebAPI.dll
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.csprojAssemblyReference.cache
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.csproj.CoreCompileInputs.cache
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.RazorAssemblyInfo.cache
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.RazorAssemblyInfo.cs
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.AssemblyInfoInputs.cache
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.AssemblyInfo.cs
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.RazorTargetAssemblyInfo.cache
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\bin\Debug\netcoreapp2.1\CognologyWebAPI.pdb
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.dll
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.pdb
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\bin\Debug\netcoreapp2.1\CognologyApp.dll
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\bin\Debug\netcoreapp2.1\CognologyApp.pdb
+D:\RMadupu\KW\Practice\Samples\CognologyApp\CognologyWebAPI\obj\Debug\netcoreapp2.1\CognologyWebAPI.csproj.CopyComplete
